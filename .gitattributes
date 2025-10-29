@@ -1,0 +1,6 @@
+*.ipynb linguist-documentation
+*.json linguist-vendored
+*.csv linguist-vendored
+*.html linguist-vendored
+*.geojson linguist-vendored
+
